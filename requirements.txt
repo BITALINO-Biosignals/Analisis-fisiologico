@@ -36,6 +36,7 @@ ipython==8.5.0
 ipywidgets @ file:///C:/b/abs_5awapknmz_/croot/ipywidgets_1679394824767/work
 jedi==0.18.1
 Jinja2 @ file:///C:/b/abs_f7x5a8op2h/croot/jinja2_1706733672594/work
+joblib @ file:///C:/b/abs_1anqjntpan/croot/joblib_1685113317150/work
 json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
 jsonschema @ file:///C:/b/abs_d1c4sm8drk/croot/jsonschema_1699041668863/work
 jsonschema-specifications @ file:///C:/b/abs_0brvm6vryw/croot/jsonschema-specifications_1699032417323/work
@@ -73,10 +74,12 @@ packaging==21.3
 pandas @ file:///C:/miniconda3/conda-bld/pandas_1692299636855/work
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 parso==0.8.3
+patsy==0.5.3
 pickleshare==0.7.5
 pillow @ file:///C:/b/abs_e22m71t0cb/croot/pillow_1707233126420/work
 platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
 ply==3.11
+pooch @ file:///C:/b/abs_a8nmng7d_x/croot/pooch_1695850149827/work
 prometheus-client @ file:///C:/Windows/TEMP/abs_ab9nx8qb08/croots/recipe/prometheus_client_1659455104602/work
 prompt-toolkit==3.0.31
 psutil==5.9.3
@@ -102,15 +105,18 @@ requests @ file:///C:/b/abs_474vaa3x9e/croot/requests_1707355619957/work
 rfc3339-validator @ file:///C:/b/abs_ddfmseb_vm/croot/rfc3339-validator_1683077054906/work
 rfc3986-validator @ file:///C:/b/abs_6e9azihr8o/croot/rfc3986-validator_1683059049737/work
 rpds-py @ file:///C:/b/abs_76j4g4la23/croot/rpds-py_1698947348047/work
-scipy==1.8.1
+scikit-learn @ file:///C:/b/abs_55olq_4gzc/croot/scikit-learn_1690978955123/work
+scipy==1.11.2
 Send2Trash @ file:///C:/b/abs_08dh49ew26/croot/send2trash_1699371173324/work
 sip @ file:///C:/b/abs_edevan3fce/croot/sip_1698675983372/work
 six==1.16.0
 sniffio @ file:///C:/b/abs_3akdewudo_/croot/sniffio_1705431337396/work
 soupsieve @ file:///C:/b/abs_bbsvy9t4pl/croot/soupsieve_1696347611357/work
 stack-data==0.5.1
+statsmodels @ file:///C:/b/abs_7bth810rna/croot/statsmodels_1689937298619/work
 sty @ file:///home/conda/feedstock_root/build_artifacts/sty_1636832754118/work
 terminado @ file:///C:/b/abs_25nakickad/croot/terminado_1671751845491/work
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
 tinycss2 @ file:///C:/b/abs_52w5vfuaax/croot/tinycss2_1668168823131/work
 tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
 tornado==6.2
